@@ -1,0 +1,10 @@
+C:\Users\thecl\source\repos\WeeCheat\WeeCheat\bin\Debug\WeeCheat.exe.config
+C:\Users\thecl\source\repos\WeeCheat\WeeCheat\bin\Debug\WeeCheat.exe
+C:\Users\thecl\source\repos\WeeCheat\WeeCheat\bin\Debug\WeeCheat.pdb
+C:\Users\thecl\source\repos\WeeCheat\WeeCheat\obj\Debug\WeeCheat.Properties.Resources.resources
+C:\Users\thecl\source\repos\WeeCheat\WeeCheat\obj\Debug\WeeCheat.csproj.GenerateResource.cache
+C:\Users\thecl\source\repos\WeeCheat\WeeCheat\obj\Debug\WeeCheat.csproj.CoreCompileInputs.cache
+C:\Users\thecl\source\repos\WeeCheat\WeeCheat\obj\Debug\WeeCheat.exe
+C:\Users\thecl\source\repos\WeeCheat\WeeCheat\obj\Debug\WeeCheat.pdb
+C:\Users\thecl\source\repos\WeeCheat\WeeCheat\obj\Debug\WeeCheat.WeeCheat.resources
+C:\Users\thecl\source\repos\WeeCheat\WeeCheat\obj\Debug\WeeCheat.csprojAssemblyReference.cache
